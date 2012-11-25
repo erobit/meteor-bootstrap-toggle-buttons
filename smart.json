@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-toggle-buttons",
+  "description": "Bootstrap toggle buttons - unofficial - nostalgiaz / bootstrap-toggle-buttons",
+  "homepage": "https://github.com/erobit/meteor-bootstrap-toggle-buttons",
+  "author": "Eric Robitaille <eric@vianet.ca>",
+  "version": "2.8",
+  "git": "https://github.com/erobit/meteor-toggle-buttons.git",
+  "packages": {
+  }
+}
