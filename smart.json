@@ -4,7 +4,7 @@
   "homepage": "https://github.com/erobit/meteor-bootstrap-toggle-buttons",
   "author": "Eric Robitaille <eric@vianet.ca>",
   "version": "2.8",
-  "git": "https://github.com/erobit/meteor-toggle-buttons.git",
+  "git": "https://github.com/erobit/meteor-bootstrap-toggle-buttons.git",
   "packages": {
   }
 }
